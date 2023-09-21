@@ -1,6 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+@font-face {
+  font-family: 'Monument';
+  src: url('/MonumentExtended.otf');
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;
